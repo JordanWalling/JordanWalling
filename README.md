@@ -12,7 +12,8 @@
 - **Pinned Projects**
 
   - A mexican restaurant website written in React [mex-ites](https://github.com/JordanWalling/mexi-ites)
-  - An E-commerce website written in HTML, CSS and JavaScript [e-commerce](https://https://github.com/JordanWalling/phase-1-javaScript-assignment)
+  
+  - An E-commerce website written in HTML, CSS and JavaScript [e-commerce website](https://https://github.com/JordanWalling/phase-1-javaScript-assignment) and [medium walkthrough](https://medium.com/@jordanwalling1991/creating-an-e-commerce-application-with-javascript-601a9c94068d)
 
 - 📝 I regularly write articles on [medium.com/@jordanwalling1991](medium.com/@jordanwalling1991)
 
